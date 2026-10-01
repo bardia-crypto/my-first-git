@@ -1,2 +1,1 @@
-Hello World
-Chapter 2: This is a new chapter
+Hello World from Master
